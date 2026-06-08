@@ -1,9 +1,10 @@
 import './App.css'
+import Notifications from './pages/Notifications'
 
 function App() {
 
   return (
-    <h1>Hello</h1>
+    <Notifications />
   )
 }
 
